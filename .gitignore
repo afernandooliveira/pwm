@@ -43,5 +43,6 @@
 */*.factorypath
 **/*.project
 */*.project
+qodana.yaml
 
 
